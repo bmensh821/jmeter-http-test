@@ -63,7 +63,6 @@ You'll see:
 
 
 📁 Project Structure
-```graphql
 
 jmeter-http-test/
 │
