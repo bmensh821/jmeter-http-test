@@ -27,7 +27,7 @@ This project uses **Apache JMeter** to simulate HTTP performance tests against a
 
 ### 1. Clone this Repository
 
-```bash
+bash
 git clone https://github.com/bmensh821/jmeter-http-test.git
 cd jmeter-http-test
 
@@ -63,7 +63,7 @@ You'll see:
 
 
 📁 Project Structure
-
+```grapthql
 jmeter-http-test/
 │
 ├── basic_http_test.jmx        # JMeter test plan
